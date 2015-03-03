@@ -8,4 +8,4 @@
 
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-北京开拓创想济南分公司 | [职位列表](./jobs/北京开拓创想.md) | 高薪、奖金+期权、定期分享技术、妹子多 | [zhaoyunhello@gmail.com](mailto:zhaoyunhello@gmail.com "有效期 2015-06-30")
+开拓创想 | [职位列表](./jobs/北京开拓创想.md) | 高薪、奖金+期权、定期分享技术、妹子多 | [zhaoyunhello@gmail.com](mailto:zhaoyunhello@gmail.com "有效期 2015-06-30")
