@@ -1,4 +1,4 @@
-# 济南IT职位列表
+济南IT职位列表
 分享济南的IT职位，收录靠谱的招聘信息。
 
 > 招聘者：欢迎按照规范 [添加职位](https://github.com/android-cn/android-recruitment/wiki "查看职位添加步骤和规范")  
@@ -8,4 +8,4 @@
 
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-阿里 | [Android 开发](./北京--JD/阿里 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+北京开拓创想济南分公司 | [职位列表](./jobs/北京开拓创想.md) | 高薪、奖金+期权、定期分享技术、妹子多 | [zhaoyunhello@gmail.com](mailto:zhaoyunhello@gmail.com "有效期 2015-06-30")
