@@ -11,8 +11,7 @@
 开拓创想 | [职位列表](./jobs/北京开拓创想济南分公司.md) | 高薪、奖金+期权、定期分享技术、妹子多 | [zhaoyunhello@gmail.com](mailto:zhaoyunhello@gmail.com "有效期 2015-06-30")
 济南奥维信息科技 |[职位列表](./jobs/济南奥维信息科技有限公司.md) |双休、每月培训、季度奖金、年终奖等福利 |[305025210@qq.com](mailto:305025210@qq.com "有效期 2015-12-30")
 叶子公司 |[职位列表](./jobs/叶子公司.md) | 已获三千万投资,CCTV-2中国创业榜样 |[CEO@Yeahis.com](mailto:CEO@Yeahis.com "有效期 2015-12-30")
-
-
+Byte.Red |[Android](./jobs/Byte.Red.md) | 天使轮,google文化，逃离北上广的最佳选择|[x@byte.red](mailto:x@byte.red "有效期 2015-12-30") 
 
 
 
